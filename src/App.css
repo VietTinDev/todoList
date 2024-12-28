@@ -1,0 +1,19 @@
+.task-manager-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.input-button-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.task-list {
+  margin-top: 20px;
+}
+
+.ant-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
